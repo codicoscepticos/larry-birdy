@@ -1,6 +1,12 @@
 # Larry Birdy
 
-`Larry Birdy` is based on ['birdy'](https://github.com/inueni/birdy) and offers syntactic sugar. Through an experimental (and fuzzy oop design) and proof-of-concept way, you can make API calls with exprensiveness (and verbosity).
+`Larry Birdy` is based on ['birdy'](https://github.com/inueni/birdy) and
+is sentence-oriented (i.e. sprinkled with syntactic sugar).
+Through an experimental (and fuzzy oop design) and proof-of-concept way,
+you can make API calls with exprensiveness (and verbosity).
+
+### Install
+`pip install larry-birdy`
 
 ### Example
 ```python
