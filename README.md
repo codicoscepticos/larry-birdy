@@ -46,3 +46,6 @@ try:
 except Exception as error_message:
     print(error_message)
 ```
+### Classes
+![image](https://user-images.githubusercontent.com/1800200/59117691-edf86480-893d-11e9-86aa-fb9db9cd3032.png)
+(generated with graphviz)
